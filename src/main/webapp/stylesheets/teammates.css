@@ -146,7 +146,8 @@ h2 {
 #navbar li a:hover {
     color: white;
     font-weight: bold;
-    text-decoration: underline;
+    text-decoration: none;
+    font-size: 115%;
 }
 
 .current {
